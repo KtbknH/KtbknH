@@ -22,8 +22,8 @@
 
 ## 🚀 À propos de moi
 
-🎓 **Bachelor Data & IA** à l'EPSI Lille   
-📍 Basé à **Lille**, ouvert à la mobilité  
+🎓 Après une **Licence Informatique** à l'Université Le Havre Normandie, je poursuis ma montée en compétences avec un **Bachelor Data & IA** à l'EPSI Lille, où j'allie développement et science des données.
+📍 Basé à Lille, ouvert à la mobilité 
 
 Développeur orienté **données**, avec de solides compétences en **Python et SQL**, habitué à travailler sur des **données réelles à grande échelle**. J'aime analyser, automatiser et transformer les données en **insights exploitables**, utiles aux équipes métiers et à la prise de décision.
 
