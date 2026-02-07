@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/KtbknH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+D%C3%A9veloppeur;Bachelor+Data+%26+IA+%E2%80%93+EPSI+Lille;Transformer+les+donn%C3%A9es+en+valeur+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+D%C3%A9veloppeur;Licence+Informatique+Le+Havre+Normandie;Bachelor+Data+%26+IA+%E2%80%93+EPSI+Lille;Transformer+les+donn%C3%A9es+en+valeur+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
